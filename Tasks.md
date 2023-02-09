@@ -1,6 +1,5 @@
 ### [Completed task]()
 ---
-### Task ⤵️
 Сделать скрин видео выполнения задания
 
  1. Открыть Chrome DevTools
